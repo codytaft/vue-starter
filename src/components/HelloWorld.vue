@@ -36,7 +36,6 @@
 </template>
 
 <script>
-import store from "@/store.js";
 import { mapActions } from "vuex";
 import { mapGetters } from "vuex";
 
